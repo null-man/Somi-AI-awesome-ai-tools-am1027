@@ -422,6 +422,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Flickify](https://somi.ai/products/flickify) - Easily transform articles into captivating videos. [![link]](https://www.flickify.com/)
 - [Wan 2.1 AI Video](https://somi.ai/products/wan-2-1-ai-video) - Open and advanced large-scale video generative models. [![link]](https://wanxai.com/)
 - [Genmo AI](https://somi.ai/products/genmo-ai) - Turn text or images into dynamic visuals. [![link]](https://www.genmo.ai/)
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (Free Trial). Not affiliated with xAI/X. [![link]](https://grokvideogenerator.dev)
 
 
 ### Video Editors
@@ -606,7 +607,6 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 
 - [HeyGen](https://somi.ai/products/hey-gen) - Create custom AI videos effortlessly across multiple languages. [![link]](https://heygen.com/?sid=rewardful&via=somi-ai)
-- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (Free Trial). Not affiliated with xAI/X. [![link]](https://grokvideogenerator.dev)
 - [Vidgenie](https://somi.ai/products/vidgenie) - AI-powered video generator for content creators. [![link]](https://vidgenie.ai/?via=somi-ai)
 - [Character AI](https://somi.ai/products/character-ai) -Creating the future of conversational AI. [![link]](https://character.ai/)
 - [Momento AI](https://somi.ai/products/momento-ai) - Create your very own AI clone. [![link]](https://www.momentoai.com/)
