@@ -423,6 +423,9 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Wan 2.1 AI Video](https://somi.ai/products/wan-2-1-ai-video) - Open and advanced large-scale video generative models. [![link]](https://wanxai.com/)
 - [Genmo AI](https://somi.ai/products/genmo-ai) - Turn text or images into dynamic visuals. [![link]](https://www.genmo.ai/)
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (Free Trial). Not affiliated with xAI/X. [![link]](https://grokvideogenerator.dev)
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 
 ### Video Editors
