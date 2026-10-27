@@ -340,6 +340,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 
 - [Midjourney](https://somi.ai/products/midjourney) - Create AI-generated images from a text prompt. [![link]](https://www.midjourney.com/home)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library (Freemium). [![link]](https://promptimage.cloud)
 - [Stable Diffusion](https://somi.ai/products/stable-diffusion) - Open models in every modality,  for everyone, everywhere. [![link]](https://stability.ai/)
 - [Adobe Firefly](https://somi.ai/products/adobe-firefly/) - Create with Adobe Firefly generative AI. [![link]](https://www.adobe.com/products/firefly.html)
 - [DALL-E 3](https://somi.ai/products/dall-e-3/)) - Creating safe AGI that benefits all of humanity. [![link]](https://openai.com/index/dall-e-3/)
@@ -383,6 +384,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 
 - [Looka](https://somi.ai/products/looka) - Design your own beautiful brand. [![link]](https://looka.com/)
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla wrap designer; core editing free without account (Freemium). [![link]](https://teslawraps.design)
 - [FLORA](https://somi.ai/products/flora) - Your intelligent canvas. [![link]](https://www.florafauna.ai/)
 - [Figma](https://somi.ai/products/figma) - Figma helps design and development teams build great products, together. [![link]](https://www.figma.com/)
 - [Icons8](https://somi.ai/products/icons8) - Icons, illustrations, photos, music & design tools. [![link]](https://icons8.com/)
@@ -604,6 +606,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 
 - [HeyGen](https://somi.ai/products/hey-gen) - Create custom AI videos effortlessly across multiple languages. [![link]](https://heygen.com/?sid=rewardful&via=somi-ai)
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (Free Trial). Not affiliated with xAI/X. [![link]](https://grokvideogenerator.dev)
 - [Vidgenie](https://somi.ai/products/vidgenie) - AI-powered video generator for content creators. [![link]](https://vidgenie.ai/?via=somi-ai)
 - [Character AI](https://somi.ai/products/character-ai) -Creating the future of conversational AI. [![link]](https://character.ai/)
 - [Momento AI](https://somi.ai/products/momento-ai) - Create your very own AI clone. [![link]](https://www.momentoai.com/)
